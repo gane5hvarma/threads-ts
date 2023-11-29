@@ -1,0 +1,19 @@
+{
+  "name": "tstest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "js-sha256": "^0.10.1",
+    "threads": "^1.7.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.0.0",
+    "threads-plugin": "^1.4.0"
+  }
+}
